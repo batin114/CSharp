@@ -1,0 +1,15 @@
+C:\dev\CSharp\Console\oparator\bin\Debug\net6.0\oparator.exe
+C:\dev\CSharp\Console\oparator\bin\Debug\net6.0\oparator.deps.json
+C:\dev\CSharp\Console\oparator\bin\Debug\net6.0\oparator.runtimeconfig.json
+C:\dev\CSharp\Console\oparator\bin\Debug\net6.0\oparator.dll
+C:\dev\CSharp\Console\oparator\bin\Debug\net6.0\oparator.pdb
+C:\dev\CSharp\Console\oparator\obj\Debug\net6.0\oparator.csproj.AssemblyReference.cache
+C:\dev\CSharp\Console\oparator\obj\Debug\net6.0\oparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharp\Console\oparator\obj\Debug\net6.0\oparator.AssemblyInfoInputs.cache
+C:\dev\CSharp\Console\oparator\obj\Debug\net6.0\oparator.AssemblyInfo.cs
+C:\dev\CSharp\Console\oparator\obj\Debug\net6.0\oparator.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\Console\oparator\obj\Debug\net6.0\oparator.dll
+C:\dev\CSharp\Console\oparator\obj\Debug\net6.0\refint\oparator.dll
+C:\dev\CSharp\Console\oparator\obj\Debug\net6.0\oparator.pdb
+C:\dev\CSharp\Console\oparator\obj\Debug\net6.0\oparator.genruntimeconfig.cache
+C:\dev\CSharp\Console\oparator\obj\Debug\net6.0\ref\oparator.dll
