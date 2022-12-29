@@ -1,0 +1,106 @@
+C:\Dev\CSharp\C#\TodoList\bin\Debug\net6.0\TodoList.exe
+C:\Dev\CSharp\C#\TodoList\bin\Debug\net6.0\TodoList.deps.json
+C:\Dev\CSharp\C#\TodoList\bin\Debug\net6.0\TodoList.runtimeconfig.json
+C:\Dev\CSharp\C#\TodoList\bin\Debug\net6.0\TodoList.dll
+C:\Dev\CSharp\C#\TodoList\bin\Debug\net6.0\TodoList.pdb
+C:\Dev\CSharp\C#\TodoList\obj\Debug\net6.0\TodoList.csproj.AssemblyReference.cache
+C:\Dev\CSharp\C#\TodoList\obj\Debug\net6.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CSharp\C#\TodoList\obj\Debug\net6.0\TodoList.AssemblyInfoInputs.cache
+C:\Dev\CSharp\C#\TodoList\obj\Debug\net6.0\TodoList.AssemblyInfo.cs
+C:\Dev\CSharp\C#\TodoList\obj\Debug\net6.0\TodoList.csproj.CoreCompileInputs.cache
+C:\Dev\CSharp\C#\TodoList\obj\Debug\net6.0\TodoList.dll
+C:\Dev\CSharp\C#\TodoList\obj\Debug\net6.0\refint\TodoList.dll
+C:\Dev\CSharp\C#\TodoList\obj\Debug\net6.0\TodoList.pdb
+C:\Dev\CSharp\C#\TodoList\obj\Debug\net6.0\TodoList.genruntimeconfig.cache
+C:\Dev\CSharp\C#\TodoList\obj\Debug\net6.0\ref\TodoList.dll
+E:\c#\TodoList calısan\bin\Debug\net6.0\TodoList.exe
+E:\c#\TodoList calısan\bin\Debug\net6.0\TodoList.deps.json
+E:\c#\TodoList calısan\bin\Debug\net6.0\TodoList.runtimeconfig.json
+E:\c#\TodoList calısan\bin\Debug\net6.0\TodoList.dll
+E:\c#\TodoList calısan\bin\Debug\net6.0\TodoList.pdb
+E:\c#\TodoList calısan\obj\Debug\net6.0\TodoList.csproj.AssemblyReference.cache
+E:\c#\TodoList calısan\obj\Debug\net6.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\TodoList calısan\obj\Debug\net6.0\TodoList.AssemblyInfoInputs.cache
+E:\c#\TodoList calısan\obj\Debug\net6.0\TodoList.AssemblyInfo.cs
+E:\c#\TodoList calısan\obj\Debug\net6.0\TodoList.csproj.CoreCompileInputs.cache
+E:\c#\TodoList calısan\obj\Debug\net6.0\TodoList.dll
+E:\c#\TodoList calısan\obj\Debug\net6.0\refint\TodoList.dll
+E:\c#\TodoList calısan\obj\Debug\net6.0\TodoList.pdb
+E:\c#\TodoList calısan\obj\Debug\net6.0\TodoList.genruntimeconfig.cache
+E:\c#\TodoList calısan\obj\Debug\net6.0\ref\TodoList.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\TodoList.exe
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\TodoList.deps.json
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\TodoList.runtimeconfig.json
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\TodoList.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\TodoList.pdb
+C:\dev\CSharp\TodoList calısan\obj\Debug\net6.0\TodoList.csproj.AssemblyReference.cache
+C:\dev\CSharp\TodoList calısan\obj\Debug\net6.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharp\TodoList calısan\obj\Debug\net6.0\TodoList.AssemblyInfoInputs.cache
+C:\dev\CSharp\TodoList calısan\obj\Debug\net6.0\TodoList.AssemblyInfo.cs
+C:\dev\CSharp\TodoList calısan\obj\Debug\net6.0\TodoList.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\TodoList calısan\obj\Debug\net6.0\TodoList.dll
+C:\dev\CSharp\TodoList calısan\obj\Debug\net6.0\refint\TodoList.dll
+C:\dev\CSharp\TodoList calısan\obj\Debug\net6.0\TodoList.pdb
+C:\dev\CSharp\TodoList calısan\obj\Debug\net6.0\TodoList.genruntimeconfig.cache
+C:\dev\CSharp\TodoList calısan\obj\Debug\net6.0\ref\TodoList.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Humanizer.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\MySqlConnector.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\System.CodeDom.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\System.Text.Json.dll
+C:\dev\CSharp\TodoList calısan\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\dev\CSharp\TodoList calısan\obj\Debug\net6.0\TodoList.csproj.CopyComplete
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\TodoList.exe
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\TodoList.deps.json
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\TodoList.runtimeconfig.json
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\TodoList.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\TodoList.pdb
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PC\Desktop\TodoList calısan\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\TodoList calısan\obj\Debug\net6.0\TodoList.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TodoList calısan\obj\Debug\net6.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TodoList calısan\obj\Debug\net6.0\TodoList.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TodoList calısan\obj\Debug\net6.0\TodoList.AssemblyInfo.cs
+C:\Users\PC\Desktop\TodoList calısan\obj\Debug\net6.0\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TodoList calısan\obj\Debug\net6.0\TodoList.csproj.CopyComplete
+C:\Users\PC\Desktop\TodoList calısan\obj\Debug\net6.0\TodoList.dll
+C:\Users\PC\Desktop\TodoList calısan\obj\Debug\net6.0\refint\TodoList.dll
+C:\Users\PC\Desktop\TodoList calısan\obj\Debug\net6.0\TodoList.pdb
+C:\Users\PC\Desktop\TodoList calısan\obj\Debug\net6.0\TodoList.genruntimeconfig.cache
+C:\Users\PC\Desktop\TodoList calısan\obj\Debug\net6.0\ref\TodoList.dll
