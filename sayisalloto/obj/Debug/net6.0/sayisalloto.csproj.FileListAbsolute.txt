@@ -1,0 +1,15 @@
+C:\dev\CSharp\Console\sayisalloto\bin\Debug\net6.0\sayisalloto.exe
+C:\dev\CSharp\Console\sayisalloto\bin\Debug\net6.0\sayisalloto.deps.json
+C:\dev\CSharp\Console\sayisalloto\bin\Debug\net6.0\sayisalloto.runtimeconfig.json
+C:\dev\CSharp\Console\sayisalloto\bin\Debug\net6.0\sayisalloto.dll
+C:\dev\CSharp\Console\sayisalloto\bin\Debug\net6.0\sayisalloto.pdb
+C:\dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.csproj.AssemblyReference.cache
+C:\dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.AssemblyInfoInputs.cache
+C:\dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.AssemblyInfo.cs
+C:\dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.dll
+C:\dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\refint\sayisalloto.dll
+C:\dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.pdb
+C:\dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.genruntimeconfig.cache
+C:\dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\ref\sayisalloto.dll
