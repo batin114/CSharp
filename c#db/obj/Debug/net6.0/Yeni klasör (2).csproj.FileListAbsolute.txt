@@ -1,0 +1,38 @@
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Yeni klasör (2).exe
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Yeni klasör (2).deps.json
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Yeni klasör (2).runtimeconfig.json
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Yeni klasör (2).dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Yeni klasör (2).pdb
+C:\Users\PC\Desktop\Yeni klasör (2)\obj\Debug\net6.0\Yeni klasör (2).csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Yeni klasör (2)\obj\Debug\net6.0\Yeni klasör (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Yeni klasör (2)\obj\Debug\net6.0\Yeni klasör (2).AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Yeni klasör (2)\obj\Debug\net6.0\Yeni klasör (2).AssemblyInfo.cs
+C:\Users\PC\Desktop\Yeni klasör (2)\obj\Debug\net6.0\Yeni klasör (2).csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Yeni klasör (2)\obj\Debug\net6.0\Yeni klasör (2).dll
+C:\Users\PC\Desktop\Yeni klasör (2)\obj\Debug\net6.0\refint\Yeni klasör (2).dll
+C:\Users\PC\Desktop\Yeni klasör (2)\obj\Debug\net6.0\Yeni klasör (2).pdb
+C:\Users\PC\Desktop\Yeni klasör (2)\obj\Debug\net6.0\Yeni klasör (2).genruntimeconfig.cache
+C:\Users\PC\Desktop\Yeni klasör (2)\obj\Debug\net6.0\ref\Yeni klasör (2).dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\Yeni klasör (2)\obj\Debug\net6.0\Yeni klasör (2).csproj.CopyComplete
